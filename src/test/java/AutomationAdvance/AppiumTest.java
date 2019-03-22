@@ -15,6 +15,15 @@ System.out.println("NativeAppAndroid");
 	
 	}
 	@Test
+	public void NativeAppAndroid2()
+	{
+		System.out.println("NativeAppAndroid");
+System.out.println("NativeAppAndroid");
+	
+System.out.println("NativeAppAndroid");
+	
+	}
+	@Test
 	public void IosApp()
 	{
 		System.out.println("IosApp");
