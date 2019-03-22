@@ -10,7 +10,7 @@ public class AppiumTest {
 	{
 		System.out.println("NativeAppAndroid");
 System.out.println("NativeAppAndroid");
-	
+	System.out.println("NativeAppAndroid234")
 System.out.println("NativeAppAndroid");
 	
 	}
